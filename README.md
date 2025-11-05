@@ -1,1 +1,1 @@
-# PicSensor: A pic local similarity checker
+# PicSensor: A pictures similarity checker

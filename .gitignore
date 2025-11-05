@@ -1,0 +1,11 @@
+data/
+*.pdf
+*.png
+*.jpg
+*.log
+temp/
+.DS_Store
+.pyc
+*cache*
+__pycache__/
+.vscode/
